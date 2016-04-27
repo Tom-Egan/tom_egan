@@ -1,2 +1,4 @@
 # tom_egan
-Personal website of Tom Egan
+
+Backup repo of my personal website: tom-egan.com
+

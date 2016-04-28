@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: tom-egan.com/sitemap.xml
